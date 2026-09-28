@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <rect width="512" height="512" rx="115" fill="#0F172A"/>
+  <!-- โกดังเส้นลายเส้นทอง -->
+  <g stroke="#F59E0B" stroke-width="16" fill="none" stroke-linecap="round" stroke-linejoin="round" transform="translate(0, -10)">
+    <!-- จั่วโกดัง 2 หลังติดกัน -->
+    <path d="M 90 260 L 190 170 L 290 260 L 390 170 L 420 195 V 330 H 90 Z" />
+    <path d="M 190 260 V 330" />
+    <path d="M 290 260 V 330" />
+    <circle cx="240" cy="215" r="12" fill="#F59E0B" />
+  </g>
+  <!-- ตัวหนังสือ KAN POS -->
+  <text x="256" y="405" font-family="'Helvetica Neue', sans-serif" font-weight="800" font-size="64" fill="#FFFFFF" text-anchor="middle" letter-spacing="6">KAN</text>
+  <text x="256" y="450" font-family="'Helvetica Neue', sans-serif" font-weight="600" font-size="26" fill="#F59E0B" text-anchor="middle" letter-spacing="10">WAREHOUSE</text>
+</svg>
